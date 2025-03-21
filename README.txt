@@ -163,3 +163,5 @@ Acknowledgments
 Disclaimer
 ----------
 This project is provided “as is” without any warranties or guarantees. It is intended for academic and research purposes. Use at your own discretion and risk.
+
+https://doi.org/10.5281/zenodo.15066291
