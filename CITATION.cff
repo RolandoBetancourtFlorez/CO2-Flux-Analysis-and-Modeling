@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Betancourt Flórez"
+  given-names: "Rolando"
+  orcid: "https://orcid.org/0009-0003-6821-630X"
+title: "Estimation of CO₂ Emissions in Fault Systems at a Global Scale"
+version: 0.1.0
+doi: 10.5281/zenodo.15066292
+date-released: 2025-03-21
+url: "https://doi.org/10.5281/zenodo.15066291"
